@@ -3,7 +3,7 @@
 <!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=black&text=H3X&textBg=false&fontColor=800000&animation=twinkling&reversal=true&section=header&fontSize=80&desc=Pentester%20|%20Developer&descSize=30&descAlignY=70"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=inherit&duration=6000&pause=100&color=6B0000&multiline=true&width=500&lines=Building+.+.+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=inherit&duration=3400&pause=100&color=6B0000&multiline=true&width=500&height=60&lines=Building+.+.+.)](https://git.io/typing-svg)
 
 
 
